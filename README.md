@@ -1,4 +1,4 @@
-# fifo_trading_model
+# Calculating PnL from Trades
 FIFO Trading Model for PnL Calculation
 - Program analyzes trades, outputs paired trades and calculates PnL
 - Input size is 1M trades 
